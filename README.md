@@ -1,83 +1,109 @@
-# agosto2020
 #EXTM3U
 
 #EXTINF:-1 , DISCOVERY CHANNEL
-https://edge2-ccast-hr.cvattv.com.ar//live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD-video=1344000-audio_20001=144800.m3u8
+https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=wdzwtc6xhvhEx6UsqFcoCQ&e=1598589224
 
 #EXTINF:-1 , HISTORY CHANNEL
-https://edge1-ccast-sl.cvattv.com.ar//live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD-video=530000-text_DVSU_35=10000.m3u8
+https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=QSOz_y1QmPj8KfelBauUAQ&e=1598589559
 
 #EXTINF:-1 , ANIMAL PLANET
-https://edge1-ccast-sl.cvattv.com.ar//live/live/AnimalPlanet/verimatrix_rotating_FTA/AnimalPlanet-video=530000.m3u8
+https://u65464.cdn884.net:8443/hls/xv2vgszc.m3u8?s=l3rE7lWD2HaSLsSdQQ52Bg&e=1598589888
 
 #EXTINF:-1 , DISCOBERY HOMEHEALT
-https://edge-live13-sl.cvattv.com.ar//live/c3eds/DiscoveryHomeHealthHD/verimatrix_rotating_FTA/DiscoveryHomeHealthHD-video=1344000-audio_20001=144800.m3u8
+https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=zDoNiSqJP2KlKJQtVRQeoA&e=1598590043
 
 #EXTINF:-1 , AyE
-https://edge1-ccast-sl.cvattv.com.ar//live/live/AEHD/verimatrix_rotating_FTA/AEHD-video=678000.m3u8
+https://ul.cdn946.net:8443/hls/ki4gdapom.m3u8?s=6TWabPLNud-EM0E4d4aZtg&e=1598590199
 
 #EXTINF:-1 , TLC
-https://edge-live13-sl.cvattv.com.ar//live/c3eds/DiscoveryHomeHealthHD/verimatrix_rotating_FTA/DiscoveryHomeHealthHD-video=1344000-audio_20001=144800.m3u8
+https://u73165.cdn884.net:8443/hls/488diyt.m3u8?s=iGnQ301ldbiNQChGlvZYuA&e=1598590315
 
-#EXTINF:-1 , E ENTERTEIMENT
-https://edge3-hr.cvattv.com.ar//live/c2live/E_Entertainment_Television/verimatrix_rotating_FTA/E_Entertainment_Television-video=1480000-audio_AACL_spa_144800_51=144800.m3u8
+#EXTINF:-1 , NATIONAL GEOGRAPHIC CHANNEL
+https://ul.cdn946.net:8443/hls/nrlo1xajr4zbot.m3u8?s=4qixeGeeQmAYxznfeZtNgw&e=1598594318
 
 #EXTINF:-1 , CINECANAL
-https://edge-live12-sl.cvattv.com.ar//live/c3eds/CinecanalHD/verimatrix_rotating_FTA/CinecanalHD-video=1344000-audio_20001=144800.m3u8
+https://ul.cdn946.net:8443/hls/ido2exlbw2h.m3u8?s=RkBfe2rRj7h9wNeKc50MQQ&e=1598590646
 
 #EXTINF:-1 , HBO
-https://edge3-sl.cvattv.com.ar//live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD-video=1344000-audio_20001=144800.m3u8
+https://ul.cdn946.net:8443/hls/liqi158i6t.m3u8?s=2T111VhUZwr0rzmqKa3aoA&e=1598590801
 
 #EXTINF:-1 , HBO PLUS
-https://ul.cdn946.net:8443/hls/6czt54eknf.m3u8?s=uJMR2pmkqNIVwxmOG3Igtg&e=1596338555
+https://ul.cdn946.net:8443/hls/6czt54eknf.m3u8?s=PaYD9OvlnO0qKmfhsc4bRg&e=1598590928
+
+#EXTINF:-1 , HBO POP
+https://ul.cdn946.net:8443/hls/n1iu2v.m3u8?s=VifXbzIO-mqTUcMjM74ryQ&e=1598595237
 
 #EXTINF:-1 , CINEMAX
-https://edge10-hr.cvattv.com.ar//live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax-video=530000.m3u8
+https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?s=9FctuOm8CsQFzVb8QCBD2Q&e=1598591104
 
-#EXTINF:-1 , TNT
-http://edge2-sl.cvattv.com.ar//live/live/TNT/verimatrix_rotating_FTA/TNT-video=530000.m3u8
+#EXTINF:-1 , TNT SETRIES
+https://u86715.cdn884.net:8443/hls/bt6z9s12bw6j2.m3u8?s=9-0VFeyWEfmz_C7h5luxwQ&e=1598591334
 
 #EXTINF:-1 , FX
-https://edge9-hr.cvattv.com.ar//live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD-video=1344000-audio_20000=144800.m3u8
+https://ul.cdn946.net:8443/hls/jd4zb3.m3u8?s=eNQkZTCP5V6hhVFI0hZK_A&e=1598591454
 
 #EXTINF:-1 , FOX
-https://edge7-ccast-hr.cvattv.com.ar//live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD-audio_20002=145200.m3u8
+https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=gJDWYpjyPj4-unS8mTBpSQ&e=1598591589
+
+#EXTINF:-1 , FOX MOVIE
+https://u65464.cdn884.net:8443/hls/hwz8mxkvyip.m3u8?s=sLJvFkSIr6X7z-XaR-OA-w&e=1598595459
 
 #EXTINF:-1 , SPACE
-https://edge3-hr.cvattv.com.ar//live/c3eds/Space/verimatrix_rotating_FTA/Space-video=530000.m3u8
+https://ul.cdn946.net:8443/hls/ahd138j5ou0819g.m3u8?s=jFWXZT75UlQ-8bOh7fyD8A&e=1598591685
 
 #EXTINF:-1 , WARNER CHANNEL
-https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=UKvV-nUASqlVrqpS1n-jZg&e=1596335759
+https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=M-A-ygw86IwTM3vhFdTqNw&e=1598591848
 
 #EXTINF:-1 , AMC
-http://edge-live13-sl.cvattv.com.ar//live/c3eds/AMC/verimatrix_rotating_FTA/AMC-video=1344000-text_DVSU_35=10000-audio_20001=144800.m3u8
+https://ul.cdn946.net:8443/hls/zz15ckophk5vu.m3u8?s=BaDiXoLhO3gjZSDP86tJLg&e=1598591974
 
 #EXTINF:-1 ,FOX SPORT
-https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/verimatrix_rotating_FTA/FoxSports-video=678000.m3u8
+https://e3.julinewr.xyz/ingest013/57852.m3u8?sf=Mk1EaVpEUkhkYg==&token=ZPPGJuG2NvvepR6i48bcnw&expires=1598585031&rnd=
+
+#EXTINF:-1 ,FOX SPORT 2
+https://e3.julinewr.xyz/ingest011/53858.m3u8?sf=VjBid3dSazlGbA==&token=vgvJXTg-9yhlLkeQZyIBoA&expires=1598587658&rnd=
+
+#EXTINF:-1 ,FOX SPORT 3
+https://u65464.cdn884.net:8443/hls/77dtt91dj5vz5h.m3u8?s=OdDObuL6IOxlC8J4fvZyaQ&e=1598595030
 
 #EXTINF:-1 ,ESPN
-https://u86715.cdn884.net:8443/hls/oeokyx3g946nz.m3u8?s=RW99hWuZ-YwGgdIIK1Dvww&e=1596335362
+https://e10.julinewr.xyz/ingestnb4s/espn_sur/f.m3u8
+
+#EXTINF:-1 ,ESPN 2
+https://e10.julinewr.xyz/ingestnb4s/espn2_sur/f.m3u8
+
+#EXTINF:-1 ,ESPN 3
+https://e10.julinewr.xyz/ingestnb4s/espn3_sur/f.m3u8
 
 #EXTINF:-1 , BEINS SPORT
-https://ul.cdn946.net:8443/hls/xvszxjlw5aa.m3u8?s=ZrGwpvzEW1Z88lJAhVyv4w&e=1596335638
+https://ul.cdn946.net:8443/hls/xvszxjlw5aa.m3u8?s=KY2bNFKflHaJFX1gWt_3Lw&e=1598592439
 
 #EXTINF:-1 , CARTOO NETWORK
-https://edge9-hr.cvattv.com.ar//live/c3eds/CartoonNetwork/verimatrix_rotating_FTA/CartoonNetwork-video=1344000-audio_20001=144800.m3u8
-
-#EXTINF:-1 , BOOMERANG
-https://edge1-ccast-sl.cvattv.com.ar//live/live/Boomerang/verimatrix_rotating_FTA/Boomerang-video=530000.m3u8
+https://ul.cdn946.net:8443/hls/jxu7cix.m3u8?s=RYcFkDI2C82g-dScKsZQwQ&e=1598592557
 
 #EXTINF:-1 , TOONCAST
-https://edge6-hr.cvattv.com.ar//live/c2live/Tooncast/verimatrix_rotating_FTA/Tooncast-video=508000.m3u8
+https://ul.cdn946.net:8443/hls/44eks.m3u8?s=1mJOc1zVTy42GuMBnh_zKg&e=1598592888
 
 #EXTINF:-1 , DISNEY XD
-https://edge-vod02-sl.cvattv.com.ar//live/live/DisneyXD/verimatrix_rotating_FTA/DisneyXD-video=1040000.m3u8
+https://u65464.cdn884.net:8443/hls/s40z6ckg.m3u8?s=sbCSADFfuPsHeWFN4MAJXw&e=1598592974
 
 #EXTINF:-1 , DISNEY JR
-https://edge4-hr.cvattv.com.ar//live/live/DisneyJr/verimatrix_rotating_FTA/DisneyJr-video=530000.m3u8
+https://u65464.cdn884.net:8443/hls/lyeydm5d8at8i.m3u8?s=MsBl4y9aB3ULyVeJyScttw&e=1598592761
 
 #EXTINF:-1 , DISNEY CHANNEL
-https://edge-live11-sl.cvattv.com.ar//live/c3eds/DisneyChannelHD/verimatrix_rotating_FTA/DisneyChannelHD-video=1040000-audio_20001=144800.m3u8
 
 #EXTINF:-1 , DISCOVERY KIDS
-https://edge6-ccast-sl.cvattv.com.ar//live/c2live/Discovery_Kids/verimatrix_rotating_FTA/Discovery_Kids-video=530000.m3u8
+https://ul.cdn946.net:8443/hls/hh704lol7xvy5s6.m3u8?s=NowieSKXHUi7xVkCYhstjQ&e=1598593214
+
+#EXTINF:-1 , MTV
+https://ul.cdn946.net:8443/hls/75jex.m3u8?s=4lDkqDCo1t7ujSg91kVdEg&e=1598593754
+
+#EXTINF:-1 , MTV HITS
+https://u65464.cdn884.net:8443/hls/bjm22azz.m3u8?s=_dqLAMsWS7E9A3jRt9UAug&e=1598593971
+
+#EXTINF:-1 , TELEHIT
+https://ul.cdn946.net:8443/hls/tet7mre.m3u8?s=DeFmcDeSYI1RNRRuBD6daQ&e=1598594172
+
+
+
+
